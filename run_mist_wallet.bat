@@ -1,0 +1,1 @@
+"c:\Program Files\Ethereum-Wallet\Ethereum Wallet.exe" --rpc http://localhost:8545
